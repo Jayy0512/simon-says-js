@@ -1,4 +1,4 @@
-# Simon Says Game 🎮
+# Simon Says Game 🎮:
 
 A web-based recreation of the classic Simon memory game, built entirely with vanilla web technologies. 
 
